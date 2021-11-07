@@ -1,0 +1,1 @@
+"# adapter-pattern-meow-bebek" 
